@@ -1,4 +1,3 @@
-proxy-nl.privateinternetaccess.com:1080
-proxy.torguard.org:1080
-proxy.torguard.org:1090
-proxy.torguard.org:1085
+1stireland.com:80
+dns.adguard.com:80
+dns.adguard.com:8080
