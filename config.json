@@ -5,13 +5,13 @@
         "port": 5000
     },
     "database": true,
-    "views": 40000000,
+    "views": 4000000000000,
     "minimum": 85.0,
     "maximum": 95.0,
     "proxy": {
         "category": "f",
         "proxy_type": false,
-        "filename": "https://raw.githubusercontent.com/Atlasclue/view/main/data.txt",
+        "filename": "https://raw.githubusercontent.com/Atlasclue/view/main/proxy.txt",
         "authentication": false,
         "proxy_api": true,
         "refresh": 130.0
