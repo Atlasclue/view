@@ -1,0 +1,4 @@
+proxy-nl.privateinternetaccess.com:1080
+proxy.torguard.org:1080
+proxy.torguard.org:1090
+proxy.torguard.org:1085
